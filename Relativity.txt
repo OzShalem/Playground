@@ -1,0 +1,93 @@
+
+
+Part 1
+    - Programming Concepts: You’ll need a solid grasp of a programming language, covering, e.g. variables, 
+    loops, control structures, and exception handling. Writing clean, readable code is essential.
+    - Data Structures & Algorithms: Familiarity with arrays, algorithm complexity and scalability is important.
+    - Code Design: You’ll apply OOP concepts inheritance, polymorphism, and SOLID principles. Refactoring and 
+    design patterns like strategy will be part of the assessment.
+
+
+Part 2
+    - Code Correctness & Testing: You’ll need to demonstrate unit testing, handle edge cases, and talk about testing frameworks.
+    - Concurrency: Be prepared to discuss locks, deadlocks, immutability, and concurrent data structures.
+    - Data Storage: You’ll need to write SQL queries, design schemas, and optimize queries using indexes.
+    
+    
+    
+    
+- Immutable and mutable:
+    - immutable - The state of the object cannot be changed once created.
+    - mutable - The state of the object can be changed after creation.
+    
+ 
+    
+- Concurrency:
+    - Locks:
+        - Mechanism to ensure only one thread accesses a critical section at a
+        time.
+        - lock - keyword in c# (e.g lock(obj) {...}
+        
+    - Deadlocks: 
+        - Occurs when two or more threads are waiting for each other to 
+        release resources, causing a standstill
+        
+    - Immutability:
+        - Immutable objects cannot be changed after creation.
+        - Example - strings in c# are immutable.
+        
+    - Concurrent Data Structures: 
+        - Specialized thread safe collections for concurrent environments.
+        - Examples - ConcurrentDictionary, BlockingCollection, and 
+        ConcurrentQueue in the System.Collections.Concurrent namespace.
+        
+Data Storage:
+    Basic:
+        - SELECT - Retrieve data
+        - INSERT - Add data
+        - UPDATE - Modify data
+        - DELETE - Remove data
+        - Practice Joins (INNER, LEFT,RIGHT, FULL) and aggregation
+        (GROUPBY, COUNT, SUM)
+        
+    - Schema Design:
+        - Tables - organized data into rows and columns
+        - Primary Key: Unique identifier for each row
+        - Foreign Key: links tables
+        
+    Indexes:
+        - Data Structures to speed up queries
+        - Example: CREATE INDEX idx_user_name ON users(name);
+        
+        - Benefits:
+            - speeds up select queries with conditions like Where or Join
+            
+        Trade-Off: 
+            - Slower Insert/Update operations since the index needs updating
+        
+        
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
