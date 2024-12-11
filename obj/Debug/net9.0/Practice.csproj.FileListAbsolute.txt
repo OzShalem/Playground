@@ -1,0 +1,14 @@
+C:\Users\ozsha\RiderProjects\Practice\bin\Debug\net9.0\Practice.exe
+C:\Users\ozsha\RiderProjects\Practice\bin\Debug\net9.0\Practice.deps.json
+C:\Users\ozsha\RiderProjects\Practice\bin\Debug\net9.0\Practice.runtimeconfig.json
+C:\Users\ozsha\RiderProjects\Practice\bin\Debug\net9.0\Practice.dll
+C:\Users\ozsha\RiderProjects\Practice\bin\Debug\net9.0\Practice.pdb
+C:\Users\ozsha\RiderProjects\Practice\obj\Debug\net9.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozsha\RiderProjects\Practice\obj\Debug\net9.0\Practice.AssemblyInfoInputs.cache
+C:\Users\ozsha\RiderProjects\Practice\obj\Debug\net9.0\Practice.AssemblyInfo.cs
+C:\Users\ozsha\RiderProjects\Practice\obj\Debug\net9.0\Practice.csproj.CoreCompileInputs.cache
+C:\Users\ozsha\RiderProjects\Practice\obj\Debug\net9.0\Practice.dll
+C:\Users\ozsha\RiderProjects\Practice\obj\Debug\net9.0\refint\Practice.dll
+C:\Users\ozsha\RiderProjects\Practice\obj\Debug\net9.0\Practice.pdb
+C:\Users\ozsha\RiderProjects\Practice\obj\Debug\net9.0\Practice.genruntimeconfig.cache
+C:\Users\ozsha\RiderProjects\Practice\obj\Debug\net9.0\ref\Practice.dll
